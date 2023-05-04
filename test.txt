@@ -1,1 +1,3 @@
-Hello everyone, myself Ramakrishna
+Hello everyone, myself Ramakrishna.
+
+I am beginner for Git and GitHub.
